@@ -1,9 +1,14 @@
-# wtf-gulp-starter
+![Kamil Rozanski my game 🥳](src/assets/img/cover.png)
 
-`npm install -g gulp-cli`
+## Kamil Rozanski my simple game in Java Script 🤩
 
-`npm install`
 
-`gulp`
+### Tools & technology, with I've used.
 
-To publish your page using github pages use `npm run deploy`
+- Semantic HTML 💥
+- CSS 💥
+- Java Script💥
+- Gulp/NPM 💥
+
+Programing is my passions, and every day I learning new skills.
+New projects will be updated automatically on this page so it is worth to look here 😉
