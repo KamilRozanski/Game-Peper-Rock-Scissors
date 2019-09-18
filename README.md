@@ -1,4 +1,9 @@
+# wtf-gulp-starter
 
+`npm install -g gulp-cli`
 
-# Game-Peper-Rock-Scissors
-Game Peper Rock Scissors, no RWD
+`npm install`
+
+`gulp`
+
+To publish your page using github pages use `npm run deploy`
