@@ -10,5 +10,5 @@
 - Java Script💥
 - Gulp/NPM 💥
 
-Programing is my passions, and every day I learning new skills.
+Programing is my passions, and every day I learn new skills.
 New projects will be updated automatically on this page so it is worth to look here 😉
